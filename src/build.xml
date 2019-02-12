@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project >
-
+<property name="counter.java.dir" location ="./src/counter"/> 
+<property name="result.dir" location ="./target"/> 
+<property name="result.javaclasses.dir" location ="${result.dir}/classes"/> 
 <target name= "compile">
 
 </target>
